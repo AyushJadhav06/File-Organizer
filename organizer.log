@@ -1,0 +1,22 @@
+2025-11-11 22:22:42,874 - INFO - ---- New run ----
+2025-11-11 22:23:53,482 - INFO - Starting organization in: D:\folder
+2025-11-11 22:23:53,611 - INFO - Moved: D:\folder\CNS Practical 10 - Aditi Potdar CSE-A.docx.pdf -> D:\folder\Documents\CNS Practical 10 - Aditi Potdar CSE-A.docx.pdf
+2025-11-11 22:23:53,612 - INFO - Moved: D:\folder\CNS Practical 10 - VARAD A CSE-A.docx -> D:\folder\Documents\CNS Practical 10 - VARAD A CSE-A.docx
+2025-11-11 22:23:53,612 - INFO - Moved: D:\folder\CNS Practical 8 - Aditi Potdar CSE A.docx.pdf -> D:\folder\Documents\CNS Practical 8 - Aditi Potdar CSE A.docx.pdf
+2025-11-11 22:23:53,613 - INFO - Moved: D:\folder\CNS Practical 8 - Varad  A CSE A.docx -> D:\folder\Documents\CNS Practical 8 - Varad  A CSE A.docx
+2025-11-11 22:23:53,665 - INFO - Moved: D:\folder\CNS Practical 9 - Aditi Potdar CSE A.docx.pdf -> D:\folder\Documents\CNS Practical 9 - Aditi Potdar CSE A.docx.pdf
+2025-11-11 22:23:53,666 - INFO - Moved: D:\folder\CNS Practical 9 - Varad A CSE A.docx -> D:\folder\Documents\CNS Practical 9 - Varad A CSE A.docx
+2025-11-11 22:23:53,667 - INFO - Finished. Processed 6 files. Removed 0 empty folders.
+2025-11-11 22:28:07,965 - INFO - ---- New run ----
+2025-11-11 22:28:54,536 - INFO - ---- New run ----
+2025-11-11 22:29:06,498 - INFO - Starting organization in: D:/folder
+2025-11-11 22:29:06,531 - INFO - Moved: D:/folder\Ayush Jadhav.png -> D:/folder\Images\Ayush Jadhav.png
+2025-11-11 22:29:06,531 - INFO - Moved: D:/folder\Certificate.jpg -> D:/folder\Images\Certificate.jpg
+2025-11-11 22:29:06,532 - INFO - Moved: D:/folder\DFA.jff -> D:/folder\Others\DFA.jff
+2025-11-11 22:29:06,585 - INFO - Moved: D:/folder\E-Commerce_Data_Analysis_Project_Report.pdf -> D:/folder\Documents\E-Commerce_Data_Analysis_Project_Report.pdf
+2025-11-11 22:29:06,585 - INFO - Moved: D:/folder\Hall Ticket - Sem 3.pdf -> D:/folder\Documents\Hall Ticket - Sem 3.pdf
+2025-11-11 22:29:06,586 - INFO - Moved: D:/folder\jdk-25_windows-x64_bin.exe -> D:/folder\Others\jdk-25_windows-x64_bin.exe
+2025-11-11 22:29:06,587 - INFO - Moved: D:/folder\JFLAP7.1.jar -> D:/folder\Others\JFLAP7.1.jar
+2025-11-11 22:29:06,587 - INFO - Moved: D:/folder\simulation_report.pdf -> D:/folder\Documents\simulation_report.pdf
+2025-11-11 22:29:06,588 - INFO - Moved: D:/folder\Untitled design (3).png -> D:/folder\Images\Untitled design (3).png
+2025-11-11 22:29:06,589 - INFO - Finished. Processed 9 files. Removed 0 empty folders.
