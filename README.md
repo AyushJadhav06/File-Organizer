@@ -1,20 +1,33 @@
-# File Organizer (file_organizer_v2)
+# File Organizer
 
-A robust Python script to organize files in a folder into categorized subfolders (Images, Videos, Documents, Audio, Archives, Code, Others).
+A simple yet powerful Python-based File Organizer that automatically sorts your files into categorized folders like Images, Videos, Documents, Audio, Archives, Code, and Others.
+It includes a GUI folder picker, logging system, and duplicate file handling — all packed into one tool.
 
 ## Features
-- GUI folder picker using `tkinter.filedialog` (falls back to console input if GUI not available)
-- Handles duplicate filenames by appending `_copy_n` suffix
+- GUI Folder Picker using tkinter.filedialog (no manual path typing)
+- Automatically creates folders for file types
+- Logs every action in organizer.log
+- Handles duplicate filenames smartly (_copy_1, _copy_2, etc.)
 - Removes empty folders after organizing
-- Writes a log file `organizer.log` in the script directory with detailed info
-- Optional progress bar support if `tqdm` is installed
+- Optional progress bar support with tqdm
+- n be converted to a .exe (no Python required!)
 
 ## Requirements
-- Python 3.7+
-- Optional packages:
-  - `tqdm` (progress bar) — `pip install tqdm`
+Python 3.7+
+Optional dependencies:
+pip install tqdm
 
-`tkinter` usually comes bundled with standard Python installers. If you don't have it, install it for your OS.
+tkinter usually comes preinstalled with Python.
+If not, install it based on your OS.
+
+## 📸 Before and After
+
+**Before organizing:**
+![Before Screenshot](before.png)
+
+**After organizing:**
+![After Screenshot](after.png)
+
 
 ## Usage
 1. Save/Place `file_organizer_v2.py` somewhere (e.g., Desktop).
@@ -37,22 +50,15 @@ pyinstaller --onefile file_organizer_v2.py
 ```
 The `.exe` will be inside the `dist/` folder. Test it on a machine with the same architecture.
 
-## Upload to GitHub
-1. Create a new repository on GitHub.
-2. Initialize git locally:
-```bash
-git init
-git add file_organizer_v2.py README.md
-git commit -m "Add file organizer v2"
-git branch -M main
-git remote add origin https://github.com/yourusername/your-repo.git
-git push -u origin main
-```
-(Replace `yourusername/your-repo` with your repository URL.)
-
 ## Notes & Safety
-- The script **moves** files (not copies) — be careful with important data. Try it on a test folder first.
-- The log file records every move and any errors encountered.
+- The script moves files, not copies. Always test on a dummy folder first.
+- Log file (organizer.log) tracks all actions and errors.
+- Use at your own discretion — especially on folders with critical files.
 
 ## License
-MIT
+This project is licensed under the MIT License — free for personal and commercial use.
+
+## Author
+Ayush Jadhav (CodeWithAyush)
+Pune, India
+Passionate about Python automation and clean code.
